@@ -18,7 +18,7 @@ Note: the content above is in pt-BR
 - [x] Object oriented programming II
 - [x] Advanced ruby I
 - [x] Advanced ruby II
-- [ ] Final project
+- [x] Final project
 
 ## Course content
 
